@@ -26,6 +26,6 @@ namespace LinearAlgebra{
         //delete [] mat_aux;
     }
 
-
+// NO PIVOTING
 
 }
